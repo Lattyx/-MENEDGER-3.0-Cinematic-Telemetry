@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🌌 MENEDGER 3.0 // Cinematic Telemetry</h1>
   <p><b>An ultra-realistic, premium glassmorphism desktop task manager and system monitor for Windows.</b></p>
-  <p><i>Created by <a href="https://github.com/Lattyxx">Lattyxx</a></i></p>
+  <p><i>Created by <a href="https://github.com/Lattyx">Lattyx</a></i></p>
 </div>
 
 ---
@@ -26,7 +26,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Lattyxx/Menedger.git
+   git clone https://github.com/Lattyx/Menedger.git
    cd Menedger
    ```
 
@@ -53,5 +53,5 @@ Menedger 3.0 is built to be yours. Head over to the **Settings (Внешний �
 ---
 
 <div align="center">
-  <p>&copy; 2026 Created with 💜 by <b>Lattyxx</b>.</p>
+  <p>&copy; 2026 Created with 💜 by <b>Lattyx</b>.</p>
 </div>
